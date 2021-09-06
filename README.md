@@ -8,7 +8,6 @@
 
 - [Markdown 风格指南](style.md)
 - [最佳实践](best_practices.md)
-- [README 文件](READMEs.md)
 - [指导思想](philosophy.md)
 
 ## 与 Google 风格指南不同之处
