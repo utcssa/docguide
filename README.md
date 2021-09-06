@@ -9,7 +9,7 @@
 - [Markdown 风格指南](style.md)
 - [最佳实践](best_practices.md)
 - [README 文件](READMEs.md)
-- [哲学](philosophy.md)
+- [指导思想](philosophy.md)
 
 ## 与 Google 风格指南不同之处
 
@@ -17,6 +17,7 @@
 - 修改了行内代码的要求（inline code）
 - 加重或减轻部分要求或建议的严格程度
 - 删除了部分要求或建议
+- 调整指导思想以适用于通用写作
 
 ## 许可证
 
